@@ -1,5 +1,5 @@
 # WebTechAssignment
-Web Technologies 2018
+Web Technologies I. - 2018
 
 Assignment exercise - Car handling web page system
 
